@@ -9,6 +9,7 @@ export default function Home() {
     <>
       <Head>
         <title>Mi Sitio Optimizado - Home</title>
+        <meta name="google-site-verification" content="IkhxZdA3n31knTdwDZ7HEjeiMh2tkC05n7pNusq-2no" />
         <meta name="description" content="Aprende sobre optimización SEO y rendimiento en Next.js." />
         <meta name="keywords" content="Next.js, SEO, optimización web" />
         <meta property="og:title" content="Mi Sitio Optimizado" />
