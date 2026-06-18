@@ -1,4 +1,4 @@
-const BASE_URL = "https://mi-sitio.com";
+const BASE_URL = "https://mi-proyecto-seo-six.vercel.app";
 
 // Simulando datos de una base de datos
 const getPostsFromDB = async () => {
